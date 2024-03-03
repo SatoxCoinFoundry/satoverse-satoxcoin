@@ -19,13 +19,13 @@ What is Satoxcoin?
 =======================
 <b>Satoxcoin ($SATOX)</b> is a coin with its own blockchain. The <b>SATOX</b> project primary mission was to implement <b>P2E</b>, but only in split consensus with <b>POW</b>. True crypto was founded with concept of <b>POW mining</b>, and shall remain so on in future.
 
-We have taken a unique approach to <b>Play2Earn</b>, we are redefining the concept and we believe this is the correct way to earn crypto rewards in 2023, users have already <b>earned SATOX</b> on <b>930+</b> games on <b>STEAM</b>, there’s <b>no need to play on dedicated servers</b>, play like normal and earn your fair share of <b>SATOX</b>.
+We have taken a unique approach to <b>Play2Earn</b>, we are redefining the concept and we believe this is the correct way to earn crypto rewards in 2023, users have already <b>earned SATOX</b> on <b>1160+</b> games on <b>STEAM</b>, there’s <b>no need to play on dedicated servers</b>, play like normal and earn your fair share of <b>SATOX</b>.
 
 What makes Satoxcoin unique?
 =======================
 <b>
 ✅️ First P2E without the need for dedicated servers</br>
-✅️ First P2E that works on 1000+ games on STEAM.</br>
+✅️ First P2E that works on 1160+ games on STEAM.</br>
 ✅️ First P2E that works with gaming consoles (XBOX, STEAMDECK)</br>
 </b></br>
 
@@ -38,6 +38,7 @@ Satoxcoin Specification
 * <b>Type</b>                    - PoW
 * <b>Block Time</b>              - 60 sec
 * <b>Block Reward</b>            - 90% PoW | [10% P2E fund](https://xplore.satoverse.io/address/SQ5iQMsmqZiYY96rTx5Hisd7sx5GiGUbbN) - (270 SATOX reward - 30 SATOX P2E Fund)
+* <b>Block confirmations</b>     - 100 Blocks
 * <b>Premine</b>                 - 3.5B SATOX(For swap from the SATO chain to the new SATOX chain.)
 * <b>Retarget Algorithm</b>      - DGW
 * <b>Instamine Protection</b>    - 1000 Blocks
@@ -70,11 +71,14 @@ Social Media
 
 Wallets
 ==================================
-* <b>Core Wallet</b>               - https://github.com/satoverse/satoxcoin/releases
-* <b>MiracleBox - win/lin/osx</b>  - https://github.com/gemlink/MiracleBox-Release/releases
-* <b>BeeHive - WebWallet</b>       - https://beehivewallet.link/
-* <b>BeeHive - Android</b>         - https://play.google.com/store/apps/details?id=com.beehive.beehivemulti_coinwallet
-* <b>Paper Wallet</b>              - https://walletgenerator-njizr0am7-nao20010128nao.vercel.app
+* <b>Core Wallet - Desktop</b>    - https://github.com/satoverse/satoxcoin/releases
+* <b>MiracleBox  - Desktop</b>    - https://github.com/gemlink/MiracleBox-Release/releases
+* <b>Vidulum     - Desktop</b>    - https://vidulum.app/
+* <b>Vidulum     - Android</b>    - https://play.google.com/store/apps/details?id=com.vidulumwallet.app
+* <b>Vidulum     - iPhone </b>    - https://apps.apple.com/us/app/id1505859171
+* <b>BeeHive     - Desktop</b>    - https://beehivewallet.link/
+* <b>BeeHive     - Android</b>    - https://play.google.com/store/apps/details?id=com.beehive.beehivemulti_coinwallet
+* <b>Paper Wallet</b>             - https://walletgenerator-njizr0am7-nao20010128nao.vercel.app
 
 
 Aggregators / Trackers
@@ -102,7 +106,6 @@ Exchanges
 ==================================
 * <b>MEXC</b>                   - https://www.mexc.com/exchange/satox_USDT
 * <b>CoinEx</b>                 - https://www.coinex.com/en/exchange/satox-usdt
-* <b>Biconomy</b>               - https://biconomy.com/exchange/SATOX_USDT
 * <b>XEGGEX</b>                 - https://xeggex.com/market/SATOX_USDT
 * <b>TRADEOGRE</b>              - https://tradeogre.com/exchange/SATOX-USDT
 * <b>XT</b>                     - https://www.xt.com/en/trade/satox_usdt
